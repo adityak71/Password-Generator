@@ -1,6 +1,6 @@
 # 🔐 Password Generator Web App
 
-🔗 **Live Demo:** [Click Here to View Project](DEPLOYED_LINK_HERE)
+🔗 **Live Demo:** [Click Here to View Project](https://random-password-genrator.web.app/)
 
 A responsive and customizable Password Generator built using HTML, CSS, and Vanilla JavaScript.  
 This application allows users to generate strong and random passwords based on selected criteria such as uppercase letters, lowercase letters, numbers, and symbols.
